@@ -1,10 +1,7 @@
 # Introduction of R
 
 
-
-This file captures all notes of a free online course on openclassrooms called **Initiez-vous au langage R pour analyser vos données**. In this course, we get basic concepts of R language. 
-
-[Course Link](https://openclassrooms.com/fr/courses/4525256-initiez-vous-au-langage-r-pour-analyser-vos-donnees/6250881-importez-des-fichiers-externes)
+This file captures my notes of a free online course on openclassrooms called [**Initiez-vous au langage R pour analyser vos données**](https://openclassrooms.com/fr/courses/4525256-initiez-vous-au-langage-r-pour-analyser-vos-donnees/6250881-importez-des-fichiers-externes). In this course, we get basic concepts of R language. 
 
 
 
